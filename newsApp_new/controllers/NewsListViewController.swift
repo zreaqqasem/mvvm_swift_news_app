@@ -37,8 +37,6 @@ class NewsListTableViewController: UITableViewController {
         
     }
     
-   
-    
 }
 
 //MARK:table view data source ad delegete
